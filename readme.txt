@@ -1,4 +1,7 @@
-CIS*2520: Data Structures - Assignment #3
+# BAET-Downheap20x10_2520A3
+Data Structures course A3 - 2 programs: (1) Converts arithmetic expression into binary tree, and can then manipulate it (2) Uses parental node downheap algorithm on a 20x10 matrix of 2-digit integers using each row as an object
+
+(Data Structures course Assignment #3)
 
 NOTE: assumed submission should be in a ".tar" file like last time for Assignment 1
 
